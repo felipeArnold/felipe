@@ -89,5 +89,4 @@ height="200"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeArnold&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 
-</p>  
-riar um CRUD com Laravel e Livewire](https://www.youtube.com/watch?v=3Q6J6J9Q6ZQ)
+</p>
